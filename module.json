@@ -33,6 +33,6 @@
             "system": "dnd5e"
         }
     ],
-    "manifest": "https://gitlab.com/encounterlibrary/dnd-pirate-compendium-by-gwill/-/raw/main/module.json",
-    "download": "https://gitlab.com/encounterlibrary/dnd-pirate-compendium-by-gwill/-/raw/main/dnd-pirate-compendium-by-gwill.zip"
+    "manifest": "https://github.com/Gwillewyn/dnd-pirate-compendium-by-gwill/releases/download/0.0.0/module.json",
+    "download": "https://github.com/Gwillewyn/dnd-pirate-compendium-by-gwill/releases/download/0.0.0/dnd-pirate-compendium-by-gwill.zip"
   }
